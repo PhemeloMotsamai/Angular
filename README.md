@@ -55,14 +55,14 @@ https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-
 -git branch -M master
 
 
--git remote add origin https://github.com/PhemeloMotsamai/DigilinkSD001/
+-git remote add origin https://github.com/PhemeloMotsamai/Angular.
 
 
 -git push -u origin master
 
 
 ### …or push an existing repository from the command line
--git remote add origin https://github.com/PhemeloMotsamai/DigilinkSD001/.
+-git remote add origin https://github.com/PhemeloMotsamai/Angular.
 
 
 -git branch -M master.
@@ -71,14 +71,4 @@ https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-
 -git push -u origin master.
 
 
-
-## Naming Convernsions
-
-### When pushing branch(code) use following naming convensions:
-
--conceptName followed by Intials
-
-#####Example
-
--generics_PM.java
 
